@@ -1,2 +1,3 @@
 # tvc
-Design of a TVC-controlled low/mid power rocket
+Design of a Thrust Vector Controlled-controlled low/mid power rocket
+
